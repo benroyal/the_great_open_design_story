@@ -1,0 +1,16 @@
+h1 {
+  color:purple;
+  text-transform: lowercase;
+  font-size: 100px;
+  margin-bottom: 10px;
+  font: verdana;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.pablo_smells {
+  color: yellow;
+}
+
+.width{
+  width: 300px;
+}
